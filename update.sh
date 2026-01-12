@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "teste 123"
+echo "Realizando ajustes necessários..."
+echo "Finalizado"
